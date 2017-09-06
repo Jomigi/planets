@@ -3,7 +3,11 @@
 Exploring the universe
 
 ## plans for exploration 
-### building a rocket
+
+### Get starting finance 
+Get sponsors
+
+#### building a rocket
 
 * learn more about rockets
 * building plan
